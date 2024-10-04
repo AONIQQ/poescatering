@@ -126,7 +126,7 @@ export default function PoesJoint() {
           </video>
           <div className="absolute inset-0 bg-black bg-opacity-50 z-10" />
           <div className="absolute inset-0 flex flex-col items-center justify-center z-20 text-white text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-4 shadow-text">Poe's Sandwich Joint Catering</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-4 shadow-text">Poe&apos;s Sandwich Joint Catering</h1>
             <p className="text-xl md:text-2xl mb-8 shadow-text">Authentic Philly Flavors for Your Events</p>
             <Link
               href="#contact"
@@ -161,7 +161,7 @@ export default function PoesJoint() {
               </div>
               <div className="md:w-1/2 md:pl-8">
                 <p className="text-lg mb-4">
-                  Poe's Sandwich Joint brings the authentic flavors of Philadelphia to your events. With our passion for quality ingredients and traditional recipes, we create unforgettable dining experiences for corporate gatherings, weddings, and special occasions.
+                  Poe&apos;s Sandwich Joint brings the authentic flavors of Philadelphia to your events. With our passion for quality ingredients and traditional recipes, we create unforgettable dining experiences for corporate gatherings, weddings, and special occasions.
                 </p>
                 <p className="text-lg">
                   Our team of experienced sandwich artisans and catering professionals ensure that every detail is perfect, from the first bite to the last. Let us make your next event a delicious success!
@@ -179,7 +179,7 @@ export default function PoesJoint() {
               <li>Corporate Events: Impress your clients and colleagues with our professional catering services.</li>
               <li>Weddings: Make your special day even more memorable with our delicious Philly-style sandwiches.</li>
               <li>Private Parties: Celebrate in style with our customized catering options for any occasion.</li>
-              <li>Business Catering: Fuel your team's productivity with our delicious and satisfying sandwich platters.</li>
+              <li>Business Catering: Fuel your team&apos;s productivity with our delicious and satisfying sandwich platters.</li>
             </ul>
           </div>
         </section>
@@ -341,7 +341,7 @@ export default function PoesJoint() {
               </div>
             </div>
             <div className="mt-8 text-center">
-              <p>&copy; {new Date().getFullYear()} Poe's Sandwich Joint Catering. All rights reserved.</p>
+              <p>&copy; {new Date().getFullYear()} Poe&apos;s Sandwich Joint Catering. All rights reserved.</p>
             </div>
           </div>
         </footer>
